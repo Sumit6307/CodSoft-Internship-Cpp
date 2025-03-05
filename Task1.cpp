@@ -13,6 +13,7 @@ int main() {
     cout<<"Welcome to the number guessing game! \n";
 
     int min_num=1;
+    
     int max_num=500;
 
     cout<<"I'm thinking of a number between "<<min_num<<" and "<<max_num<<" . Try to guess it. \n";
